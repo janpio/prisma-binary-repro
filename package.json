@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "ts-node main.ts",
+    "postinstall": "npx ts-node main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
